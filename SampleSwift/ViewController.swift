@@ -6,6 +6,7 @@
 //  Copyright © 2016 Sam. All rights reserved.
 //
 // test
+// test 2 from new branch
 
 import UIKit
 
